@@ -49,3 +49,8 @@ An attempt made by me to make Google Docs Suite more usable as a wiki, this is a
 
 ### [Gmail Label Chrome Extension](https://github.com/piyushkmr/gmail-label-chrome-extension)
 An extension that puts icons to your labels to improve productivity and to spice up your email client.
+
+### [Github Enhancements](dev-heler-chrome-ext)
+Simple github enhancements using chrome extnsion that iclude:
+- Creating links for JIRA tickets mentioned in the page (this is now provided natively by github)
+- Showing JIRA ticket details (summary, status, priority, description)
