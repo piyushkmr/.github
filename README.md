@@ -1,6 +1,5 @@
 # Hi, I am Piyush
 - LinkedIn: https://www.linkedin.com/in/piyushkumarbaliyan/
-- My Resume: https://cutt.ly/piyush-resume
 - My Github: https://github.com/piyushkmr
 - I write on: https://dev.to/piyushkmr
 - I fiddle on: https://codepen.io/collection/xKLEkR
@@ -16,8 +15,7 @@
 
 # Projects
 ## CodePen
-- Demo Mode: https://codepen.io/tv/xKLEkR
-- Link to Collection: https://codepen.io/collection/xKLEkR
+- Collection: https://codepen.io/collection/xKLEkR
 
 ### [GDocsWiki](https://github.com/piyushkmr/gdocswiki)
 An attempt made by me to make Google Docs Suite more usable as a wiki, this is a work in progress.
