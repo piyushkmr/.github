@@ -1,5 +1,4 @@
 # Hi, I am Piyush
-- LinkedIn: https://www.linkedin.com/in/piyushkumarbaliyan/
 - My Github: https://github.com/piyushkmr
 - I write on: https://dev.to/piyushkmr
 - I fiddle on: https://codepen.io/collection/xKLEkR
